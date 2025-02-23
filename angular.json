@@ -29,9 +29,15 @@
             ],
             "styles": [
               "src/styles.scss",
-              "css/bootstrap.min.css"
+              "css/bootstrap.min.css",
+              "css/jquery-ui.min.css"
             ],
-            "scripts": ["js/bootstrap.min.js"]
+            "scripts": [
+              "js/bootstrap.min.js",
+              "js/jquery-3.7.1.min.js",
+              "js/jquery-ui.min.js",
+              "js/script.js"
+            ]
           },
           "configurations": {
             "production": {

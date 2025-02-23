@@ -1,7 +1,3 @@
-* {
-  padding: 0;
-  margin: 0;
-}
 
 .navigation {
   background-color: #F8F9FA;
@@ -37,9 +33,9 @@
   z-index: 1;
 }
 
-.col {
+/*.col {
   max-width: 400px;
-}
+}*/
 
 .product-image img {
   width: 400px;
@@ -55,9 +51,11 @@
   font-size: 16px;
 }
 
+/*
 .col {
   padding: 0;
 }
+*/
 
 .faq {
   margin-top: 70px;
@@ -75,7 +73,7 @@
   width: 20px;
   height: 20px;
   color: #FFF;
-  background-image: url("../assets/images/ui-icons_ffffff_256x240.png");
+  background-image: url("../../css/images/ui-icons_ffffff_256x240.png");
 }
 
 .ui-state-default {

@@ -8,3 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'tea_bags_angular';
 }
+
+declare var $: any;
+
