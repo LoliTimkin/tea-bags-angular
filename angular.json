@@ -28,9 +28,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
+
               "css/bootstrap.min.css",
-              "css/jquery-ui.min.css"
+              "css/jquery-ui.min.css",
+              "src/styles.scss"
             ],
             "scripts": [
               "js/bootstrap.min.js",

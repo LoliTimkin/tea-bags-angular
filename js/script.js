@@ -1,4 +1,10 @@
 $(document).ready(function(event){
+
+    $( "#accordion" ).accordion({
+      icons: { "header": " ui-icon-caret-1-s", "activeHeader": "ui-icon-carat-1-n" },
+      heightStyle: "content"
+    })
+
     $('#order-form').on('submit',  e => {
         e.preventDefault();
 
